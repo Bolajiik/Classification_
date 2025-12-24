@@ -85,7 +85,7 @@ This project demonstrates a reproducible training workflow, model artifacts, and
 ## Getting Started
 ### Clone GitHub Repo
 ```
-git clone https://github.com/Shegun93/QunatSparkChallenge.git
+git clone https://github.com/Bolajiik/Classification_.git
 ```
 ### Install Requirements
 
@@ -108,7 +108,7 @@ Dependencies include:
 
 ### Navigate to the source code folder
 ```
-cd QunatSparkChallenge
+cd Classification_
 ```
 ## Training
 
